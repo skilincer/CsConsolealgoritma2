@@ -1,0 +1,11 @@
+C:\Users\Windows'10\source\repos\algoritma2\algoritma2\bin\Debug\netcoreapp2.1\algoritma2.deps.json
+C:\Users\Windows'10\source\repos\algoritma2\algoritma2\bin\Debug\netcoreapp2.1\algoritma2.runtimeconfig.json
+C:\Users\Windows'10\source\repos\algoritma2\algoritma2\bin\Debug\netcoreapp2.1\algoritma2.runtimeconfig.dev.json
+C:\Users\Windows'10\source\repos\algoritma2\algoritma2\bin\Debug\netcoreapp2.1\algoritma2.dll
+C:\Users\Windows'10\source\repos\algoritma2\algoritma2\bin\Debug\netcoreapp2.1\algoritma2.pdb
+C:\Users\Windows'10\source\repos\algoritma2\algoritma2\obj\Debug\netcoreapp2.1\algoritma2.csprojAssemblyReference.cache
+C:\Users\Windows'10\source\repos\algoritma2\algoritma2\obj\Debug\netcoreapp2.1\algoritma2.csproj.CoreCompileInputs.cache
+C:\Users\Windows'10\source\repos\algoritma2\algoritma2\obj\Debug\netcoreapp2.1\algoritma2.AssemblyInfoInputs.cache
+C:\Users\Windows'10\source\repos\algoritma2\algoritma2\obj\Debug\netcoreapp2.1\algoritma2.AssemblyInfo.cs
+C:\Users\Windows'10\source\repos\algoritma2\algoritma2\obj\Debug\netcoreapp2.1\algoritma2.dll
+C:\Users\Windows'10\source\repos\algoritma2\algoritma2\obj\Debug\netcoreapp2.1\algoritma2.pdb
